@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_crackling.mk
+    $(LOCAL_DIR)/mokee_crackling.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_crackling-user \
-    lineage_crackling-userdebug \
-    lineage_crackling-eng
+    mokee_crackling-user \
+    mokee_crackling-userdebug \
+    mokee_crackling-eng
